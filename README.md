@@ -4,7 +4,7 @@ Thanks for visiting our project repository. It contains our collaborative works 
 
 Please Feel free to browse through our project and provide us your feedback. We do love to hear from you.
 
-<strong><ins>Team Members and Role<</ins>strong>
+<strong><u>Team Members and Role<</u></strong>
 
 <p>
  1.  Jaslyn Lo: Project Manager
