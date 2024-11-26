@@ -2,9 +2,9 @@
 
 Thanks for visiting our project repository. It contains our collaborative works in building a Modern Responsive eCommerce Website dealing with Pets Products and Services. 
 
-Feel free to browse through our project and provide us your feedback. We do love to hear from you.
+Please Feel free to browse through our project and provide us your feedback. We do love to hear from you.
 
-###<ins>Team Members and Role</ins>
+<ins><strong>Team Members and Role<strong></ins>
 Jaslyn Lo: Project Manager
 Fizah: Graphics / Web Designer
 Michael Tan: Software (Web) Developer
